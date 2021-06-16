@@ -1,3 +1,4 @@
+coded in 2018
 # Biological-Data-Manipulation
 
 A DNA sequence can be converted to RNA sequence which is then converted to a Protein sequence. RNA results from one DNA strand. To convert a DNA strand to an RNA sequence, replace each T by U. So, the RNA sequences corresponding to the past DNA examples are  Page | 3 ACAAGG, CGAUACAG, UUACGCCAU, and GACCCCUA respectively. RNA sequence can be of type (mRNA, tRNA, rRNA). Finally, The RNA sequence can be converted into a Protein sequence. Each 3 characters of the RNA sequence, called a codon, can be converted/mapped into one Protein character (called AminoAcid). The mapping of codons into AminoAcids is shown in the following Table or Wheel. So, the RNA sequence ACGUACGUAUAA is converted into the Protein sequence TYV. The last codon UAA is not converted into an AminoAcid because it is a stop codon. Proteins come in different types (Hormon, Enzyme, TF, Cellular_Function).
